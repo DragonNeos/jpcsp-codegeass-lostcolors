@@ -1,0 +1,5 @@
+umdimages\Code_Geass_Lost_Colors.iso
+Instruction Trace Dump - Pause
+
+Local depth: 5
+

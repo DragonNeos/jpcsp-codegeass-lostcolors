@@ -1,0 +1,6 @@
+[LINUX]
+PATH="/usr/share/applications"
+FILE="JSymphonic"
+[WINDOWS]
+PATH="C:/Program Files/Sony/"
+FILE="SonicStage"

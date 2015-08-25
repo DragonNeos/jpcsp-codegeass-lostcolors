@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE log4j:configuration SYSTEM 'log4j.dtd'>
+
+<log4j:configuration>
+
+<appender name='JpcspAppender' class='jpcsp.log.TextPaneAppender'>
+<layout class='org.apache.log4j.PatternLayout'>
+<param name='ConversionPattern' value='%r [%t] %-5p %c - %m%n' />
+</layout>
+</appender>
+<appender name='HTMLAppender' class='org.apache.log4j.FileAppender'>
+<param name='File' value='log.html' />
+<param name='Append' value='false' />
+<layout class='jpcsp.log.HTMLLayout'>
+<param name='Title' value='Jpcsp log file' />
+</layout>
+</appender>
+<appender name='ProfilerTxtAppender' class='org.apache.log4j.FileAppender'>
+<param name='File' value='profiler.txt' />
+<param name='Append' value='false' />
+<layout class='org.apache.log4j.PatternLayout'>
+<param name='ConversionPattern' value='%m%n' />
+</layout>
+</appender>
+
+<logger name='hle.InterruptManager' > <level value='off' /> </logger>
+<logger name='hle.IoFileMgrForUser' > <level value='off' /> </logger>
+<logger name='hle.Kernel_Library' > <level value='off' /> </logger>
+<logger name='hle.LoadCoreForKernel' > <level value='off' /> </logger>
+<logger name='hle.LoadExecForUser' > <level value='off' /> </logger>
+<logger name='hle.ModuleMgrForUser' > <level value='off' /> </logger>
+<logger name='hle.StdioForUser' > <level value='off' /> </logger>
+<logger name='hle.SysMemForKernel' > <level value='off' /> </logger>
+<logger name='hle.SysMemUserForUser' > <level value='off' /> </logger>
+<logger name='hle.ThreadManForUser' > <level value='off' /> </logger>
+<logger name='hle.UtilsForUser' > <level value='off' /> </logger>
+<logger name='hle.sceAtrac3plus' > <level value='off' /> </logger>
+<logger name='hle.sceAudio' > <level value='off' /> </logger>
+<logger name='hle.sceCtrl' > <level value='off' /> </logger>
+<logger name='hle.sceDeflt' > <level value='off' /> </logger>
+<logger name='hle.sceDisplay' > <level value='off' /> </logger>
+<logger name='hle.sceDmac' > <level value='off' /> </logger>
+<logger name='hle.sceFont' > <level value='off' /> </logger>
+<logger name='hle.sceGe_user' > <level value='off' /> </logger>
+<logger name='hle.sceHprm' > <level value='off' /> </logger>
+<logger name='hle.sceImpose' > <level value='off' /> </logger>
+<logger name='hle.sceMp3' > <level value='off' /> </logger>
+<logger name='hle.sceMpeg' > <level value='off' /> </logger>
+<logger name='hle.scePower' > <level value='off' /> </logger>
+<logger name='hle.scePsmf' > <level value='off' /> </logger>
+<logger name='hle.scePsmfPlayer' > <level value='off' /> </logger>
+<logger name='hle.sceRtc' > <level value='off' /> </logger>
+<logger name='hle.sceSasCore' > <level value='off' /> </logger>
+<logger name='hle.sceSuspendForUser' > <level value='off' /> </logger>
+<logger name='hle.sceUmdUser' > <level value='off' /> </logger>
+<logger name='hle.sceUtility' > <level value='off' /> </logger>
+<logger name='cpu' > <level value='off' /> </logger>
+<logger name='ge' > <level value='off' /> </logger>
+<logger name='compiler' > <level value='off' /> </logger>
+<logger name='memory' />
+<logger name='emu' > <level value='off' /> </logger>
+<logger name='loader' > <level value='off' /> </logger>
+<logger name='runtime' > <level value='off' /> </logger>
+<logger name='stdout' > <level value='off' /> </logger>
+<logger name='stderr' > <level value='off' /> </logger>
+<!-- Output profiler info to 'profiler.txt' -->
+<logger name='profiler' additivity='false'>
+<level value='info' />
+<appender-ref ref='ProfilerTxtAppender' />
+</logger>
+
+<root>
+<level value ='off' />
+<appender-ref ref='JpcspAppender' />
+<appender-ref ref='HTMLAppender' />
+</root>
+
+</log4j:configuration>

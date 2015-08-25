@@ -1,0 +1,252 @@
+ABS.S  FPU  1
+ADD.S  FPU  1244
+ADDIU  MIPS I  36586
+ADDU  MIPS I  30268
+AND  MIPS I  425
+ANDI  MIPS I  1583
+BC1F  MIPS I/FPU  107
+BC1FL  MIPS II/FPU  70
+BC1T  MIPS I/FPU  54
+BC1TL  MIPS II/FPU  194
+BEQ  MIPS I  9094
+BEQL  MIPS II  3866
+BGEZ  MIPS I  172
+BGEZL  MIPS II  81
+BGTZ  MIPS I  105
+BGTZL  MIPS II  59
+BITREV  ALLEGREX  1
+BLEZ  MIPS I  410
+BLEZL  MIPS II  342
+BLTZ  MIPS I  279
+BLTZL  MIPS I  165
+BNE  MIPS I  3791
+BNEL  MIPS II  1735
+BREAK  MIPS I  144
+BVT  MIPS I/VFPU  1
+BVTL  MIPS II/VFPU  1
+C.COND.S  FPU  425
+CLZ  ALLEGREX  4
+CVT.S.W  FPU  719
+DCACHE CREATE DIRTY EXCLUSIVE  ALLEGREX  27
+DCACHE HIT WRITEBACK INVALIDATE  ALLEGREX  1
+DIV  MIPS I  95
+DIV.S  FPU  234
+DIVU  MIPS I  141
+EXT  ALLEGREX  224
+INS  ALLEGREX  350
+J  MIPS I  3016
+JAL  MIPS I  13027
+JALR  MIPS I  2100
+JR  MIPS I  4963
+LB  MIPS I  1990
+LBU  MIPS I  3235
+LH  MIPS I  2374
+LHU  MIPS I  942
+LUI  MIPS I  9915
+LVQ  MIPS I/VFPU  152
+LVS  MIPS I/VFPU  9
+LW  MIPS I  38256
+LWC1  MIPS I/FPU  3457
+LWL  MIPS I  21
+LWR  MIPS I  85
+MADD  ALLEGREX  416
+MAX  ALLEGREX  96
+MFC1  MIPS I/FPU  376
+MFHI  MIPS I  333
+MFLO  MIPS I  858
+MFV  MIPS I/VFPU  1
+MIN  ALLEGREX  142
+MOV.S  FPU  360
+MOVN  ALLEGREX  82
+MOVZ  ALLEGREX  79
+MTC1  MIPS I/FPU  1256
+MTLO  MIPS I  11
+MTV  MIPS I/VFPU  10
+MUL.S  FPU  1261
+MULT  MIPS I  862
+MULTU  MIPS I  65
+NEG.S  FPU  58
+NOP  MIPS I  7174
+NOR  MIPS I  50
+OR  MIPS I  1582
+ORI  MIPS I  1158
+SB  MIPS I  3802
+SEB  ALLEGREX  440
+SEH  ALLEGREX  718
+SH  MIPS I  1442
+SLL  MIPS I  4378
+SLLV  MIPS I  176
+SLT  MIPS I  862
+SLTI  MIPS I  860
+SLTIU  MIPS I  1036
+SLTU  MIPS I  1497
+SQRT.S  FPU  6
+SRA  MIPS I  924
+SRAV  MIPS I  119
+SRL  MIPS I  1007
+SRLV  MIPS I  101
+SUB.S  FPU  480
+SUBU  MIPS I  1587
+SVQ  MIPS I/VFPU  108
+SVS  MIPS I/VFPU  7
+SW  MIPS I  25824
+SWC1  MIPS I/FPU  2423
+SWL  MIPS I  20
+SWR  MIPS I  20
+SYSCALL  MIPS I  175
+TRUNC.W.S  FPU  300
+VADD  VFPU  12
+VAVG  VFPU  1
+VCMOVF  VFPU  1
+VCMOVT  VFPU  5
+VCMP  VFPU  8
+VCRSP  VFPU  3
+VCST  VFPU  9
+VDIV  VFPU  7
+VDOT  VFPU  32
+VF2ID  VFPU  2
+VF2IN  VFPU  1
+VF2IU  VFPU  1
+VF2IZ  VFPU  2
+VFAD  VFPU  3
+VFIM  VFPU  1
+VHTFM4  VFPU  1
+VI2F  VFPU  2
+VI2UC  VFPU  20
+VIDT  VFPU  12
+VMAX  VFPU  3
+VMIDT  VFPU  1
+VMIN  VFPU  3
+VMMOV  VFPU  6
+VMMUL  VFPU  7
+VMOV  VFPU  27
+VMSCL  VFPU  2
+VMUL  VFPU  51
+VMZERO  VFPU  1
+VNEG  VFPU  10
+VOCP  VFPU  2
+VONE  VFPU  2
+VPFXD  VFPU  13
+VPFXS  VFPU  53
+VPFXT  VFPU  53
+VRCP  VFPU  1
+VROT  VFPU  12
+VRSQ  VFPU  6
+VSCL  VFPU  21
+VSGN  VFPU  2
+VSQRT  VFPU  3
+VSUB  VFPU  17
+VTFM3  VFPU  2
+VTFM4  VFPU  13
+VUC2I  VFPU  20
+VZERO  VFPU  11
+XOR  MIPS I  251
+XORI  MIPS I  416
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  
+null  null  

@@ -1,0 +1,69 @@
+Concepts: SI stands for "Special Image".
+
+Priority: NORMAL
+S102 
+3 speeches are very cummon.
+
+s140 has a twin which only variates on the speech 12º YOU
+
+s176 needs script (176 milly calls in 6 index]
+
+there are still 3 scenes to be recognized
+
+s300 second choice (on the SV) is not translated, when translated update the script.
+
+s304 only has milly choice translated.
+
+s469 - 2 villetta v1:
+I’m doing this for myself to the end though. 
+
+rever scene 341 no docx
+
+Priority: HIGH AS FUCK
+Scene 383 does not have images.
+
+scene 326 precisa de tratamento SV a partir do 19 YOU.
+
+Scene 489 has no images. (DONE)
+
+cores de loading: 
+
+x1
+
+30, 49, 55 - catLoading - 24, 70, 93
+200, 202, 200 - CCLoading - 107, 154, 74
+123, 77, 148 - LelouchZeroLoading - 90, 36, 90
+156, 166, 170 - SuzakuEuphemiaLoading - 85, 108, 159
+35, 102, 19 - CC2Loading - 38, 109, 19
+11, 11, 16 - CorneliaEuphemiaLoading - 156, 60, 140
+88, 105, 112 - GeassLoading - 60, 76, 85
+173, 162, 140 - LiberationFrontLoading - 49, 48, 33
+63, 124, 198 - NunnallyLoading - 71, 125, 198
+74, 56, 57 - EnneagramLoading - 167, 179, 181
+118, 111, 134 - RakushataLoading - 101, 103, 132
+156, 117, 90 - TheOrderOfTheBlackKnightsLoading - 85, 64, 126
+162, 49, 11 - LelouchAshfordLoading - 178, 78, 11
+148, 203, 198 - GeassLoading2 - 200, 153, 195
+189, 190, 189 - LloydCecilLoading - 192, 191, 189
+187, 193, 198 - HandsTouchingLoading - 181, 186, 181
+
+
+x2
+
+31, 49, 55 - catLoading - 24, 70, 93
+200, 202, 200 - CCLoading - 105, 153, 72
+126, 80, 150 - LelouchZeroLoading - 86, 34, 84
+156, 165, 166 - SuzakuEuphemiaLoading - 86, 110, 164
+34, 100, 18 - CC2Loading - 36, 106, 19
+11, 11, 16 - CorneliaEuphemiaLoading - 156, 61, 141
+88, 107, 115 - GeassLoading - 61, 76, 86
+171, 158, 136 - LiberationFrontLoading - 50, 50, 34
+63, 124, 198 - NunnallyLoading - 70, 125, 198
+74, 56, 57 - EnneagramLoading - 158, 169, 174
+120, 113, 137 - RakushataLoading - 101, 101, 130
+135, 103, 80 - TheOrderOfTheBlackKnightsx2 - 85 64 126
+162, 51, 11 - LelouchAshfordLoading - 178, 79, 12
+146, 198, 199 - GeassLoading2 - 202, 159, 193
+185, 186, 183 - LloydCecilLoading - 192, 191, 189
+186, 192, 198 - HandsTouchingLoading - 180, 186, 182
+

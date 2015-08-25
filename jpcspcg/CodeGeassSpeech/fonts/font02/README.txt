@@ -1,0 +1,2 @@
+http://lekton.blog.isiaurbino.it/
+The typeface has been designed at Isia Urbino by the students Luna Castroni, Stefano Faoro, Emilio Macchia, Elena Papassissa, Michela Povoleri, Tobias Seemiller, and the teacher Luciano Perondi (aka galacticus ineffabilis).Lekton is inspired by some of the typefaces used on the Olivetti typewriters.We thanks a lot Gianmaria Capello for his precious support.

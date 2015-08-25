@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.8.2
+Created-By: 1.6.0_23-b23 (Sun Microsystems Inc.)
+Implementation-Vendor: www.xuggle.com
+Implementation-Title: xuggle-xuggler-arch-i686-pc-linux-gnu
+Implementation-Version: 5.4.0
+Xuggle-Native-App: xuggle-xuggler
+Xuggle-Native-Root: .
+Xuggle-Native-Paths: .
+Xuggle-Native-Bundles: i686-pc-linux-gnu
+
